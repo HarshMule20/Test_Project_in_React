@@ -4,7 +4,7 @@ import About from './components/About'
 import Contact from './components/Contact';
 
 function App() {
-  let data = '= the helping hand of thethis is a data passing';
+  let data = '= the helping hand of this is a data passing';
   return (
     <div>
       <h1> Hello World</h1>
